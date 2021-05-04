@@ -1,0 +1,3 @@
+# test_first_push
+githubへのお試しpush
+世界を作る計画用のリポジトリ
